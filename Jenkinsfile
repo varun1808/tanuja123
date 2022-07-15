@@ -1,5 +1,6 @@
 pipeline {
     agent any
+    agent Balu
     environment {
         //be sure to replace "willbla" with your own Docker Hub username
         DOCKER_IMAGE_NAME = "willbla/train-schedule"
