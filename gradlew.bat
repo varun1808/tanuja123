@@ -84,3 +84,5 @@ if "%OS%"=="Windows_NT" endlocal
 :omega
 [B:omega1
 :omega2
+Balu1
+balu2
